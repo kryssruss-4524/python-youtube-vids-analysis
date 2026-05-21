@@ -2,7 +2,7 @@
 Python Project: To analyze Ja. Gleaner's YouTube content to assess engagement (likes) across news categories
 
 # Summary of Objectives:
-1.To categorize YouTube video titles by news category
+1. To categorize YouTube video titles by news category
 2. To measure engagement (likes) per news category via mean, median, count and distribution
 3. To measure engagement (likes) trends over time
 4. To assess relationship between likes, comments and number of views
