@@ -1,4 +1,4 @@
-# python-x-posts-analysis
+# python-youtube-posts-analysis
 Python Project: To analyze Ja. Gleaner's YouTube content to assess engagement (likes) across news categories
 
 # Summary of Objectives:
