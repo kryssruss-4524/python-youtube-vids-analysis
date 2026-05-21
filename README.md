@@ -19,7 +19,7 @@ Coursera [https://www.coursera.org/projects/analyze-social-media-python]
 The Jamaica Gleaner (JamaicaGleaner on YouTube.com)
 
 # No. of Videos Analyzed:
-3 to 4
+5
 
 # API Used:
 Youtube API
